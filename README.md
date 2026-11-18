@@ -1,7 +1,6 @@
 # clasificador-textos
 
-[![CI](https://github.com/USUARIO/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USUARIO/REPO/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/USUARIO/REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/USUARIO/REPO)
+[![CI](https://github.com/yanisaez16/clasificador-textos/actions/workflows/ci.yml/badge.svg)](https://github.com/yanisaez16/clasificador-textos/actions/workflows/ci.yml)
 
 Plataforma de datos para tickets de soporte que crece versión a versión: hoy es un script que
 clasifica tickets por palabras clave.
