@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.pkl
+.env
+.pytest_cache/
+.coverage
+coverage.xml
+CLAUDE.local.md

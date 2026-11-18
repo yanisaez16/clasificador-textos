@@ -1,0 +1,21 @@
+id,categoria,motivo
+1,facturacion,Cobro duplicado de suscripción y pide devolución
+2,tecnico,La app se cierra al subir fotos
+3,cuenta,No puede recuperar su contraseña
+4,cuenta,Quiere cambiar el correo de su cuenta
+5,facturacion,Pide corregir los datos de la factura
+6,tecnico,Problema de rendimiento: la página carga lento
+7,facturacion,Cancelar el plan es facturación según CLAUDE.md
+8,tecnico,Botón de exportar no funciona
+9,facturacion,Cobro de un plan no contratado
+10,otro,Consulta comercial de descuentos sin problema
+11,cuenta,Cuenta bloqueada impide iniciar sesión
+12,facturacion,Cobros siguen yendo a tarjeta anterior
+13,tecnico,Error de idioma en las notificaciones
+14,cuenta,Solicita eliminar cuenta y datos
+15,tecnico,Pago confirmado pero el producto no activa funciones
+16,otro,Sugerencia de nueva funcionalidad
+17,cuenta,Perdió acceso a verificación en dos pasos
+18,facturacion,Duda sobre montos cobrados aunque falle el reporte
+19,otro,Felicitación sin solicitud
+20,facturacion,Duda sobre si se realizó el cargo

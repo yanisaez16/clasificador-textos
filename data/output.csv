@@ -1,0 +1,21 @@
+id,texto,categoria
+1,"Me cobraron dos veces la suscripción de este mes, necesito que me devuelvan uno de los cargos.",facturacion
+2,La app se cierra sola cada vez que intento subir una foto desde el celular.,tecnico
+3,Olvidé mi contraseña y el correo de recuperación nunca me llega.,cuenta
+4,¿Cómo cambio el correo asociado a mi cuenta?,cuenta
+5,"Quiero la factura con los datos de mi empresa, la que me llegó está a nombre personal.",facturacion
+6,"La página carga muy lento desde ayer, tarda casi un minuto en abrir el panel.",tecnico
+7,"Me gustaría cancelar mi plan, pero no encuentro dónde hacerlo.",facturacion
+8,El botón de exportar a Excel no hace nada cuando lo presiono.,tecnico
+9,Me llegó un cobro de un plan que nunca contraté.,facturacion
+10,¿Tienen descuento para estudiantes?,otro
+11,"No puedo iniciar sesión, me dice que mi cuenta está bloqueada.",cuenta
+12,Actualicé mi tarjeta pero el sistema sigue intentando cobrar a la anterior.,facturacion
+13,Sus notificaciones me llegan en inglés aunque tengo configurado español.,tecnico
+14,Quiero eliminar mi cuenta y todos mis datos.,cuenta
+15,Después de pagar el plan Pro sigo viendo las funciones del plan gratis.,tecnico
+16,¿Pueden agregar modo oscuro? Sería genial.,otro
+17,Cambié de celular y perdí el acceso a la verificación en dos pasos.,cuenta
+18,El reporte mensual muestra montos distintos a los que aparecen en mi factura.,facturacion
+19,"Hola, solo quería felicitarlos, el último cambio quedó muy bien.",otro
+20,"Intenté pagar con transferencia y la página dio error, no sé si se hizo el cargo.",facturacion
